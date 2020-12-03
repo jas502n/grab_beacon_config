@@ -41,3 +41,12 @@ print("[+] uri_x64= " + url + uri_x64)
 [+] uri_x64= https://172.16.242.1//UENu
 ```
 
+### Simple PoC script to scan and acquire CobaltStrike Beacon configurations.
+
+```
+	Based on :
+		JPCERT :: cobaltstrikescan.py
+		Sentinel-One :: parse_beacon_config.py
+		Didier Stevens :: 1768.py
+		Roman Emelynaov :: L8_get_beacon.py
+```
